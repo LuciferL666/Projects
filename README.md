@@ -1,2 +1,2 @@
 # Projects
-Repository for projcts 
+Repository for projcts with JS, HTML and CSS
